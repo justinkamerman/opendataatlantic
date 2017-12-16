@@ -3,4 +3,4 @@
 
 * [Family Physician Service Type Utilisation](FamilyPhysicianServiceTypeUtilisation/README.md)
 
-* [Bootstrap Methods and their Application](Bootstrap/Bootstrap Methods.ipynb)
+* [Bootstrap Methods and their Application](Bootstrap/Bootstrap\ Methods.ipynb)
